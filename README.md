@@ -45,7 +45,7 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 - Distribuciones con scipy.stats
 
 ## 🎥 Grabaciones
-🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://youtube.com/playlist?list=PLqq4bX-XIg37GRRK2QODyn7MoqrdQ8h6i&si=eJFwV0B3Q4Z-pyy-)
+🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg35AbE7xFCiaYWtq2YUwjZ7M)
 
 ## 👨‍🏫 Instructores
 ### Fabricio Luna Palacios
